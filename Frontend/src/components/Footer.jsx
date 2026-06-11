@@ -122,7 +122,7 @@ export default function Footer() {
               color: "rgba(255,255,255,0.5)",
             }}
           >
-            © 2026 Allbirds Demo. MERN Stack
+            Samuel Chinwuba © 2026 Allbirds Demo. MERN Stack
             Project.
           </div>
 
